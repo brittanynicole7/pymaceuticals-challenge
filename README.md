@@ -1,8 +1,8 @@
-##Overview
+Overview
 
 For this challenge, we were tasked with merging two datasets and cleaning the DataFrame by removing a mouse with duplicate entries. We also were asked to develop summary statistics for tumor volume (mean, median, variance, standard deviation, and standard error) for each of the drug regimens. We were asked to create a bar chart using Pandas and pyplot to display the number of timepoints per drug regimen. Similarly, we were asked to create a pie chart displaying the distribution of the female versus male mice using Pandas and pyplot. For four drugs (Capomulin, Ramicane, Infubional, and Ceftamin), we were asked to determine if there were any outliers in the tumor volume values and create a box plot for these four drugs. We were asked to create a line plot for one mouse on Capomulin showing the association between tumor volume and timepoints. Lastly, we were asked to create a scatterplot, calculate the correlation coefficient, and create a regression line comparing mouse weight and average tumor volume for the Capomulin regimen. 
 
-##Results
+Results
 
 - One mouse had duplicate entries or multiple entries from the same timepoints and this mouse was dropped. 
 
